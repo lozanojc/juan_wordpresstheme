@@ -1,0 +1,34 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+// Font Face
+@import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,400italic,700,700italic);
+
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);	
+
+// Structure
+$pageWidth: 1000px;
+
+// Text Selection
+$selectionColor: orange;
+
+// Colors
+$white:#fff;
+$black:#171b1e;
+$letter-gray: #494848;
+$green: #38a7a8;
+$gray: #f3f3f3;
+
+//borders
+
+$thick-border: 5px solid $black;
+
+//Fonts
+
+$font-family-titles: 'Oswald', sans-serif;
+//$title-spacing:0.65em;
+
+$body-font: 'Anonymous Pro', serif;
+$body-font-weight: 400;
+
